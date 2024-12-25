@@ -1,4 +1,4 @@
-﻿namespace QuanLyTro.Froms
+﻿namespace QuanLyTro.Forms
 {
     partial class FormMain
     {

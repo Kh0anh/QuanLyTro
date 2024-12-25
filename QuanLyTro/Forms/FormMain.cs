@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLyTro.Froms
+namespace QuanLyTro.Forms
 {
     public partial class FormMain : Form
     {

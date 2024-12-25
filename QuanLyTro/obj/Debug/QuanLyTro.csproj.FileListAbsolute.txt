@@ -1,0 +1,17 @@
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.AssemblyReference.cache
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.Forms.FormMain.resources
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.Properties.Resources.resources
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.GenerateResource.cache
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.CoreCompileInputs.cache
+D:\QuanLyTro\QuanLyTro\bin\Debug\QuanLyTro.exe.config
+D:\QuanLyTro\QuanLyTro\bin\Debug\QuanLyTro.exe
+D:\QuanLyTro\QuanLyTro\bin\Debug\QuanLyTro.pdb
+D:\QuanLyTro\QuanLyTro\bin\Debug\EntityFramework.xml
+D:\QuanLyTro\QuanLyTro\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLyTro\QuanLyTro\bin\Debug\System.Data.SQLite.xml
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.Fody.CopyLocal.cache
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.Fody.RuntimeCopyLocal.cache
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.csproj.CopyComplete
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.exe
+D:\QuanLyTro\QuanLyTro\obj\Debug\QuanLyTro.pdb
