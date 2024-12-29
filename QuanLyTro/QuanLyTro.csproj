@@ -91,6 +91,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -105,6 +106,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\cauhinh.png" />
+    <Content Include="Resources\cua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\trangchu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\nha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\khanghang.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
