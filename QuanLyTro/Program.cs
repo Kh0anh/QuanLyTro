@@ -18,10 +18,12 @@ namespace QuanLyTro
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
+            //Tạo và tải form chính
             _FormMain = new FormMain();
             Application.Run(_FormMain);
         }
 
+        //Form chính để static để truy vấn khi đa luồng hoặc ...
         public static FormMain _FormMain { get; set; }
     }
 }

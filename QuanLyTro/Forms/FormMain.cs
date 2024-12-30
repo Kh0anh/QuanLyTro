@@ -1,4 +1,5 @@
 ﻿using ReaLTaiizor.Colors;
+using ReaLTaiizor.Controls;
 using ReaLTaiizor.Forms;
 using ReaLTaiizor.Manager;
 using ReaLTaiizor.Util;
@@ -13,6 +14,8 @@ namespace QuanLyTro.Forms
         {
             InitializeComponent();
 
+            //Thêm theme vào form
+            //Theme Xanh Sáng Trắng
             materialSkinManager = MaterialSkinManager.Instance;
 
             materialSkinManager.AddFormToManage(this);
@@ -23,14 +26,13 @@ namespace QuanLyTro.Forms
                         MaterialPrimary.BlueGrey500,
                         MaterialAccent.LightBlue200,
                         MaterialTextShade.LIGHT);
-            materialSkinManager.Theme = MaterialSkinManager.Themes.DARK;
         }
 
         private void FormMain_Load(object sender, EventArgs e)
         {
-            this.Text = CauHinh.TenPhanMem;
-            //this.txSoNhaTro.Text = "100
-
+            this.Text = CauHinh.TenPhanMem; //Đặt tên phần mềm theo cấu hình
+            CauHinh.init(); //Tải cấu hình
+            var s = new MaterialContextMenuStrip();
             //#if DEBUG
             //            ListViewItem item = new ListViewItem("PHONG-01");
             //            item.SubItems.Add("Thường");
