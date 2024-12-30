@@ -23,12 +23,13 @@ namespace QuanLyTro.Forms
                         MaterialPrimary.BlueGrey500,
                         MaterialAccent.LightBlue200,
                         MaterialTextShade.LIGHT);
+            materialSkinManager.Theme = MaterialSkinManager.Themes.DARK;
         }
 
         private void FormMain_Load(object sender, EventArgs e)
         {
             this.Text = CauHinh.TenPhanMem;
-            this.txSoNhaTro.Text = "100";
+            //this.txSoNhaTro.Text = "100
 
             //#if DEBUG
             //            ListViewItem item = new ListViewItem("PHONG-01");

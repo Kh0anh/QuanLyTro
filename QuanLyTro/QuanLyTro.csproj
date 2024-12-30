@@ -77,11 +77,65 @@
     <Compile Include="Forms\FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlCauHinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlCauHinh.Designer.cs">
+      <DependentUpon>UserControlCauHinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlHopDong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlHopDong.Designer.cs">
+      <DependentUpon>UserControlHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlKhachHang.Designer.cs">
+      <DependentUpon>UserControlKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlNhaTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlNhaTro.Designer.cs">
+      <DependentUpon>UserControlNhaTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlPhongTro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlPhongTro.Designer.cs">
+      <DependentUpon>UserControlPhongTro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlTrangChu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\FormMainUserControl\UserControlTrangChu.Designer.cs">
+      <DependentUpon>UserControlTrangChu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\Phong.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Forms\FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMainUserControl\UserControlCauHinh.resx">
+      <DependentUpon>UserControlCauHinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMainUserControl\UserControlHopDong.resx">
+      <DependentUpon>UserControlHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMainUserControl\UserControlKhachHang.resx">
+      <DependentUpon>UserControlKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMainUserControl\UserControlNhaTro.resx">
+      <DependentUpon>UserControlNhaTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMainUserControl\UserControlPhongTro.resx">
+      <DependentUpon>UserControlPhongTro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormMainUserControl\UserControlTrangChu.resx">
+      <DependentUpon>UserControlTrangChu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -112,6 +166,7 @@
     <Content Include="Resources\cua.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\hopdong.png" />
     <Content Include="Resources\trangchu.png" />
   </ItemGroup>
   <ItemGroup>
