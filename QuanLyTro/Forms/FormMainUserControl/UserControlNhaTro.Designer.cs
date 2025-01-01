@@ -30,23 +30,17 @@ namespace QuanLyTro.Forms.FormMainUserControl
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.lvNhaTro = new ReaLTaiizor.Controls.MaterialListView();
             this.clMaNhaTro = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clTenNhaTro = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clSoLuongPhong = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clDiaChi = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clTrangThaiNhaTro = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.contextMenuStrip1 = new ReaLTaiizor.Controls.MaterialContextMenuStrip();
-            this.thêmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sửaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.xoáToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.thêmToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.sửaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.xoáToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
-            this.contextMenuStrip1.SuspendLayout();
-            this.contextMenuStrip2.SuspendLayout();
+            this.cmLvNhaTro = new ReaLTaiizor.Controls.MaterialContextMenuStrip();
+            this.them = new System.Windows.Forms.ToolStripMenuItem();
+            this.sua = new System.Windows.Forms.ToolStripMenuItem();
+            this.xoa = new System.Windows.Forms.ToolStripMenuItem();
+            this.cmLvNhaTro.SuspendLayout();
             this.SuspendLayout();
             // 
             // lvNhaTro
@@ -60,7 +54,7 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.clSoLuongPhong,
             this.clDiaChi,
             this.clTrangThaiNhaTro});
-            this.lvNhaTro.ContextMenuStrip = this.contextMenuStrip2;
+            this.lvNhaTro.ContextMenuStrip = this.cmLvNhaTro;
             this.lvNhaTro.Depth = 0;
             this.lvNhaTro.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lvNhaTro.FullRowSelect = true;
@@ -101,62 +95,36 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.clTrangThaiNhaTro.Text = "Trạng Thái";
             this.clTrangThaiNhaTro.Width = 240;
             // 
-            // contextMenuStrip1
+            // cmLvNhaTro
             // 
-            this.contextMenuStrip1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
-            this.contextMenuStrip1.Depth = 0;
-            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.thêmToolStripMenuItem,
-            this.sửaToolStripMenuItem,
-            this.xoáToolStripMenuItem});
-            this.contextMenuStrip1.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
-            this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(105, 70);
+            this.cmLvNhaTro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.cmLvNhaTro.Depth = 0;
+            this.cmLvNhaTro.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.them,
+            this.sua,
+            this.xoa});
+            this.cmLvNhaTro.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
+            this.cmLvNhaTro.Name = "contextMenuStrip1";
+            this.cmLvNhaTro.Size = new System.Drawing.Size(106, 70);
             // 
-            // thêmToolStripMenuItem
+            // them
             // 
-            this.thêmToolStripMenuItem.Name = "thêmToolStripMenuItem";
-            this.thêmToolStripMenuItem.Size = new System.Drawing.Size(104, 22);
-            this.thêmToolStripMenuItem.Text = "Thêm";
+            this.them.Name = "them";
+            this.them.Size = new System.Drawing.Size(180, 22);
+            this.them.Text = "Thêm";
+            this.them.Click += new System.EventHandler(this.them_Click);
             // 
-            // sửaToolStripMenuItem
+            // sua
             // 
-            this.sửaToolStripMenuItem.Name = "sửaToolStripMenuItem";
-            this.sửaToolStripMenuItem.Size = new System.Drawing.Size(104, 22);
-            this.sửaToolStripMenuItem.Text = "Sửa";
+            this.sua.Name = "sua";
+            this.sua.Size = new System.Drawing.Size(180, 22);
+            this.sua.Text = "Sửa";
             // 
-            // xoáToolStripMenuItem
+            // xoa
             // 
-            this.xoáToolStripMenuItem.Name = "xoáToolStripMenuItem";
-            this.xoáToolStripMenuItem.Size = new System.Drawing.Size(104, 22);
-            this.xoáToolStripMenuItem.Text = "Xoá";
-            // 
-            // contextMenuStrip2
-            // 
-            this.contextMenuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.thêmToolStripMenuItem1,
-            this.sửaToolStripMenuItem1,
-            this.xoáToolStripMenuItem1});
-            this.contextMenuStrip2.Name = "contextMenuStrip2";
-            this.contextMenuStrip2.Size = new System.Drawing.Size(105, 70);
-            // 
-            // thêmToolStripMenuItem1
-            // 
-            this.thêmToolStripMenuItem1.Name = "thêmToolStripMenuItem1";
-            this.thêmToolStripMenuItem1.Size = new System.Drawing.Size(104, 22);
-            this.thêmToolStripMenuItem1.Text = "Thêm";
-            // 
-            // sửaToolStripMenuItem1
-            // 
-            this.sửaToolStripMenuItem1.Name = "sửaToolStripMenuItem1";
-            this.sửaToolStripMenuItem1.Size = new System.Drawing.Size(104, 22);
-            this.sửaToolStripMenuItem1.Text = "Sửa";
-            // 
-            // xoáToolStripMenuItem1
-            // 
-            this.xoáToolStripMenuItem1.Name = "xoáToolStripMenuItem1";
-            this.xoáToolStripMenuItem1.Size = new System.Drawing.Size(104, 22);
-            this.xoáToolStripMenuItem1.Text = "Xoá";
+            this.xoa.Name = "xoa";
+            this.xoa.Size = new System.Drawing.Size(180, 22);
+            this.xoa.Text = "Xoá";
             // 
             // UserControlNhaTro
             // 
@@ -165,8 +133,7 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.Controls.Add(this.lvNhaTro);
             this.Name = "UserControlNhaTro";
             this.Size = new System.Drawing.Size(800, 400);
-            this.contextMenuStrip1.ResumeLayout(false);
-            this.contextMenuStrip2.ResumeLayout(false);
+            this.cmLvNhaTro.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -179,13 +146,9 @@ namespace QuanLyTro.Forms.FormMainUserControl
         private System.Windows.Forms.ColumnHeader clSoLuongPhong;
         private System.Windows.Forms.ColumnHeader clDiaChi;
         private System.Windows.Forms.ColumnHeader clTrangThaiNhaTro;
-        private MaterialContextMenuStrip contextMenuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem thêmToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem sửaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem xoáToolStripMenuItem;
-        private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
-        private System.Windows.Forms.ToolStripMenuItem thêmToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem sửaToolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem xoáToolStripMenuItem1;
+        private MaterialContextMenuStrip cmLvNhaTro;
+        private System.Windows.Forms.ToolStripMenuItem them;
+        private System.Windows.Forms.ToolStripMenuItem sua;
+        private System.Windows.Forms.ToolStripMenuItem xoa;
     }
 }

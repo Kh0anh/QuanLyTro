@@ -8,6 +8,9 @@ namespace QuanLyTro
     {
         //Tên phần mềm
         public static readonly string TenPhanMem = "Quản Lý Trọ";
+
+        //Mutex của phần mềm tránh chạy trùng lặp gây lỗi cho database
+        public static readonly string Mutex = "kh0anh-QuanLyTro";
         
         //Class truy vấn cơ sở dữ liệu bằng SQLITE3
         public static SQLiteConnection CSDL;

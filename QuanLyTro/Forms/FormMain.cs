@@ -1,4 +1,5 @@
-﻿using ReaLTaiizor.Colors;
+﻿using QuanLyTro.Forms.Dialog;
+using ReaLTaiizor.Colors;
 using ReaLTaiizor.Controls;
 using ReaLTaiizor.Forms;
 using ReaLTaiizor.Manager;
@@ -31,8 +32,7 @@ namespace QuanLyTro.Forms
         private void FormMain_Load(object sender, EventArgs e)
         {
             this.Text = CauHinh.TenPhanMem; //Đặt tên phần mềm theo cấu hình
-            CauHinh.init(); //Tải cấu hình
-            var s = new MaterialContextMenuStrip();
+
             //#if DEBUG
             //            ListViewItem item = new ListViewItem("PHONG-01");
             //            item.SubItems.Add("Thường");
