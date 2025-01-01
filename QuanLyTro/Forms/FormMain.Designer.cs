@@ -34,9 +34,10 @@
             this.tabTrangChu = new System.Windows.Forms.TabPage();
             this.userControlTrangChu = new QuanLyTro.Forms.FormMainUserControl.UserControlTrangChu();
             this.tabNhaTro = new System.Windows.Forms.TabPage();
-            this.userControlNhaTro1 = new QuanLyTro.Forms.FormMainUserControl.UserControlNhaTro();
+            this.userControlNhaTro = new QuanLyTro.Forms.FormMainUserControl.UserControlNhaTro();
             this.tabPhongTro = new System.Windows.Forms.TabPage();
             this.userControlPhongTro = new QuanLyTro.Forms.FormMainUserControl.UserControlPhongTro();
+            this.tabThanhToan = new System.Windows.Forms.TabPage();
             this.tabKhachHang = new System.Windows.Forms.TabPage();
             this.userControlKhachHang = new QuanLyTro.Forms.FormMainUserControl.UserControlKhachHang();
             this.tabHopDong = new System.Windows.Forms.TabPage();
@@ -44,7 +45,6 @@
             this.tabCauHinh = new System.Windows.Forms.TabPage();
             this.userControlCauHinh = new QuanLyTro.Forms.FormMainUserControl.UserControlCauHinh();
             this.tabControlIconList = new System.Windows.Forms.ImageList(this.components);
-            this.tabThanhToan = new System.Windows.Forms.TabPage();
             this.tcMain.SuspendLayout();
             this.tabTrangChu.SuspendLayout();
             this.tabNhaTro.SuspendLayout();
@@ -96,7 +96,7 @@
             // 
             // tabNhaTro
             // 
-            this.tabNhaTro.Controls.Add(this.userControlNhaTro1);
+            this.tabNhaTro.Controls.Add(this.userControlNhaTro);
             this.tabNhaTro.ImageKey = "nha.png";
             this.tabNhaTro.Location = new System.Drawing.Point(4, 23);
             this.tabNhaTro.Name = "tabNhaTro";
@@ -106,13 +106,13 @@
             this.tabNhaTro.Text = "Nhà Trọ";
             this.tabNhaTro.UseVisualStyleBackColor = true;
             // 
-            // userControlNhaTro1
+            // userControlNhaTro
             // 
-            this.userControlNhaTro1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.userControlNhaTro1.Location = new System.Drawing.Point(3, 3);
-            this.userControlNhaTro1.Name = "userControlNhaTro1";
-            this.userControlNhaTro1.Size = new System.Drawing.Size(994, 394);
-            this.userControlNhaTro1.TabIndex = 0;
+            this.userControlNhaTro.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.userControlNhaTro.Location = new System.Drawing.Point(3, 3);
+            this.userControlNhaTro.Name = "userControlNhaTro";
+            this.userControlNhaTro.Size = new System.Drawing.Size(994, 394);
+            this.userControlNhaTro.TabIndex = 0;
             // 
             // tabPhongTro
             // 
@@ -132,6 +132,16 @@
             this.userControlPhongTro.Name = "userControlPhongTro";
             this.userControlPhongTro.Size = new System.Drawing.Size(1000, 400);
             this.userControlPhongTro.TabIndex = 0;
+            // 
+            // tabThanhToan
+            // 
+            this.tabThanhToan.ImageKey = "thanhtoan.png";
+            this.tabThanhToan.Location = new System.Drawing.Point(4, 23);
+            this.tabThanhToan.Name = "tabThanhToan";
+            this.tabThanhToan.Size = new System.Drawing.Size(1000, 400);
+            this.tabThanhToan.TabIndex = 6;
+            this.tabThanhToan.Text = "Thanh Toán";
+            this.tabThanhToan.UseVisualStyleBackColor = true;
             // 
             // tabKhachHang
             // 
@@ -202,16 +212,6 @@
             this.tabControlIconList.Images.SetKeyName(5, "hopdong.png");
             this.tabControlIconList.Images.SetKeyName(6, "thanhtoan.png");
             // 
-            // tabThanhToan
-            // 
-            this.tabThanhToan.ImageKey = "thanhtoan.png";
-            this.tabThanhToan.Location = new System.Drawing.Point(4, 23);
-            this.tabThanhToan.Name = "tabThanhToan";
-            this.tabThanhToan.Size = new System.Drawing.Size(1000, 400);
-            this.tabThanhToan.TabIndex = 6;
-            this.tabThanhToan.Text = "Thanh Toán";
-            this.tabThanhToan.UseVisualStyleBackColor = true;
-            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -245,12 +245,12 @@
         private System.Windows.Forms.TabPage tabCauHinh;
         private System.Windows.Forms.ImageList tabControlIconList;
         private FormMainUserControl.UserControlTrangChu userControlTrangChu;
-        private FormMainUserControl.UserControlNhaTro userControlNhaTro1;
         private FormMainUserControl.UserControlPhongTro userControlPhongTro;
         private FormMainUserControl.UserControlKhachHang userControlKhachHang;
         private FormMainUserControl.UserControlCauHinh userControlCauHinh;
         private System.Windows.Forms.TabPage tabHopDong;
         private FormMainUserControl.UserControlHopDong userControlHopDong;
         private System.Windows.Forms.TabPage tabThanhToan;
+        public FormMainUserControl.UserControlNhaTro userControlNhaTro;
     }
 }

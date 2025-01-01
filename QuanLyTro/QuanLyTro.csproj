@@ -75,6 +75,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CauHinh.cs" />
+    <Compile Include="Forms\Dialog\SuaNhaTro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialog\SuaNhaTro.Designer.cs">
+      <DependentUpon>SuaNhaTro.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Dialog\ThemNhaTro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -132,6 +138,9 @@
     <Compile Include="Models\Phong.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Dialog\SuaNhaTro.resx">
+      <DependentUpon>SuaNhaTro.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dialog\ThemNhaTro.resx">
       <DependentUpon>ThemNhaTro.cs</DependentUpon>
     </EmbeddedResource>

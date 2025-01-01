@@ -35,7 +35,7 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.clTenNhaTro = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clSoLuongPhong = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.clDiaChi = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.clTrangThaiNhaTro = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.clGhiChu = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.cmLvNhaTro = new ReaLTaiizor.Controls.MaterialContextMenuStrip();
             this.them = new System.Windows.Forms.ToolStripMenuItem();
             this.sua = new System.Windows.Forms.ToolStripMenuItem();
@@ -53,7 +53,7 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.clTenNhaTro,
             this.clSoLuongPhong,
             this.clDiaChi,
-            this.clTrangThaiNhaTro});
+            this.clGhiChu});
             this.lvNhaTro.ContextMenuStrip = this.cmLvNhaTro;
             this.lvNhaTro.Depth = 0;
             this.lvNhaTro.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -90,10 +90,10 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.clDiaChi.Text = "Địa Chỉ";
             this.clDiaChi.Width = 240;
             // 
-            // clTrangThaiNhaTro
+            // clGhiChu
             // 
-            this.clTrangThaiNhaTro.Text = "Trạng Thái";
-            this.clTrangThaiNhaTro.Width = 240;
+            this.clGhiChu.Text = "Ghi Chú";
+            this.clGhiChu.Width = 240;
             // 
             // cmLvNhaTro
             // 
@@ -105,12 +105,12 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.xoa});
             this.cmLvNhaTro.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
             this.cmLvNhaTro.Name = "contextMenuStrip1";
-            this.cmLvNhaTro.Size = new System.Drawing.Size(106, 70);
+            this.cmLvNhaTro.Size = new System.Drawing.Size(181, 92);
             // 
             // them
             // 
             this.them.Name = "them";
-            this.them.Size = new System.Drawing.Size(180, 22);
+            this.them.Size = new System.Drawing.Size(105, 22);
             this.them.Text = "Thêm";
             this.them.Click += new System.EventHandler(this.them_Click);
             // 
@@ -119,12 +119,14 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.sua.Name = "sua";
             this.sua.Size = new System.Drawing.Size(180, 22);
             this.sua.Text = "Sửa";
+            this.sua.Click += new System.EventHandler(this.sua_Click);
             // 
             // xoa
             // 
             this.xoa.Name = "xoa";
             this.xoa.Size = new System.Drawing.Size(180, 22);
             this.xoa.Text = "Xoá";
+            this.xoa.Click += new System.EventHandler(this.xoa_Click);
             // 
             // UserControlNhaTro
             // 
@@ -133,22 +135,22 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.Controls.Add(this.lvNhaTro);
             this.Name = "UserControlNhaTro";
             this.Size = new System.Drawing.Size(800, 400);
+            this.Load += new System.EventHandler(this.UserControlNhaTro_Load);
             this.cmLvNhaTro.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private ReaLTaiizor.Controls.MaterialListView lvNhaTro;
         private System.Windows.Forms.ColumnHeader clMaNhaTro;
         private System.Windows.Forms.ColumnHeader clTenNhaTro;
         private System.Windows.Forms.ColumnHeader clSoLuongPhong;
         private System.Windows.Forms.ColumnHeader clDiaChi;
-        private System.Windows.Forms.ColumnHeader clTrangThaiNhaTro;
+        private System.Windows.Forms.ColumnHeader clGhiChu;
         private MaterialContextMenuStrip cmLvNhaTro;
         private System.Windows.Forms.ToolStripMenuItem them;
         private System.Windows.Forms.ToolStripMenuItem sua;
         private System.Windows.Forms.ToolStripMenuItem xoa;
+        public MaterialListView lvNhaTro;
     }
 }

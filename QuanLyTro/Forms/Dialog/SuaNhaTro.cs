@@ -12,48 +12,21 @@ using System.Windows.Forms;
 
 namespace QuanLyTro.Forms.Dialog
 {
-    public partial class ThemNhaTro : MaterialForm
+    public partial class SuaNhaTro : MaterialForm
     {
         public string TenNhaTro { get; set; }
         public int SoLuongPhong { get; set; }
         public string DiaChi { get; set; }
         public string GhiChu { get; set; }
-
-        public ThemNhaTro()
+        public SuaNhaTro()
         {
             InitializeComponent();
         }
 
-        private void ThemNhaTro_Load(object sender, EventArgs e)
+        private void SuaNhaTro_Load(object sender, EventArgs e)
         {
             //Tạo tên form
-            this.Text = string.Format("{0} - Thêm Nhà Trọ", CauHinh.TenPhanMem);
-
-            //Khởi tạo giá trị mặt định cho biến
-            TenNhaTro = string.Empty;
-            SoLuongPhong = 0;
-            DiaChi = string.Empty;
-            GhiChu = string.Empty;
-        }
-
-        private void swTaoPhong_CheckedChanged(object sender, EventArgs e)
-        {
-            //Bật tắt comboBox Số Phòng
-            if (swTaoPhong.Checked)
-            {
-                SoLuongPhong = comboSoPhong.SelectedIndex;
-                comboSoPhong.Enabled = true;
-            }
-            else
-            {
-                SoLuongPhong = 0;
-                comboSoPhong.Enabled = false;
-            }
-        }
-
-        private void comboSoPhong_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            SoLuongPhong = comboSoPhong.SelectedIndex; ;
+            this.Text = string.Format("{0} - Chỉnh Sửa Nhà Trọ", CauHinh.TenPhanMem);
         }
 
         private void btHuy_Click(object sender, EventArgs e)
@@ -62,6 +35,7 @@ namespace QuanLyTro.Forms.Dialog
             DialogResult = DialogResult.Cancel;
             this.Close();
         }
+
         private void btXacNhan_Click(object sender, EventArgs e)
         {
             //Kiểm tra tên nhà trọ có trống không
