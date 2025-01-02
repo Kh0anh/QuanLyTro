@@ -128,6 +128,13 @@ CREATE TABLE IF NOT EXISTS ""ThanhToan"" (
 	FOREIGN KEY(""MaDienNuoc"") REFERENCES ""DienNuoc""(""Ma""),
 	PRIMARY KEY(""Ma"")
 );
+CREATE TABLE IF NOT EXISTS ""CauHinh"" (
+	""Ten""	TEXT NOT NULL,
+	""CauHinh""	TEXT NOT NULL,
+	PRIMARY KEY(""Ten"")
+);
+INSERT INTO ""CauHinh"" VALUES ('GiaDien','3000');
+INSERT INTO ""CauHinh"" VALUES ('GiaNuoc','9000');
 COMMIT;
 ";
                 using (SQLiteCommand truyVan = new SQLiteCommand(lenhThemCSDL, CSDL))

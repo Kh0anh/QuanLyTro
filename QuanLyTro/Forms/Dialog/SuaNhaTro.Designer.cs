@@ -33,6 +33,8 @@
             this.txGhiChu = new ReaLTaiizor.Controls.MaterialMultiLineTextBoxEdit();
             this.btXacNhan = new ReaLTaiizor.Controls.MaterialButton();
             this.btHuy = new ReaLTaiizor.Controls.MaterialButton();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // txTenNhaTro
@@ -43,11 +45,11 @@
             this.txTenNhaTro.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.txTenNhaTro.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
             this.txTenNhaTro.Depth = 0;
-            this.txTenNhaTro.Font = new System.Drawing.Font("Roboto", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            this.txTenNhaTro.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txTenNhaTro.HideSelection = true;
             this.txTenNhaTro.Hint = "Tên Nhà Trọ";
             this.txTenNhaTro.LeadingIcon = null;
-            this.txTenNhaTro.Location = new System.Drawing.Point(20, 41);
+            this.txTenNhaTro.Location = new System.Drawing.Point(6, 19);
             this.txTenNhaTro.MaxLength = 32767;
             this.txTenNhaTro.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.OUT;
             this.txTenNhaTro.Name = "txTenNhaTro";
@@ -59,7 +61,7 @@
             this.txTenNhaTro.SelectionLength = 0;
             this.txTenNhaTro.SelectionStart = 0;
             this.txTenNhaTro.ShortcutsEnabled = true;
-            this.txTenNhaTro.Size = new System.Drawing.Size(350, 48);
+            this.txTenNhaTro.Size = new System.Drawing.Size(375, 48);
             this.txTenNhaTro.TabIndex = 0;
             this.txTenNhaTro.TabStop = false;
             this.txTenNhaTro.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -75,11 +77,11 @@
             this.txDiaChi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.txDiaChi.CharacterCasing = System.Windows.Forms.CharacterCasing.Normal;
             this.txDiaChi.Depth = 0;
-            this.txDiaChi.Font = new System.Drawing.Font("Roboto", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
+            this.txDiaChi.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.txDiaChi.HideSelection = true;
             this.txDiaChi.Hint = "Địa chỉ";
             this.txDiaChi.LeadingIcon = null;
-            this.txDiaChi.Location = new System.Drawing.Point(20, 95);
+            this.txDiaChi.Location = new System.Drawing.Point(6, 73);
             this.txDiaChi.MaxLength = 32767;
             this.txDiaChi.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.OUT;
             this.txDiaChi.Name = "txDiaChi";
@@ -91,7 +93,7 @@
             this.txDiaChi.SelectionLength = 0;
             this.txDiaChi.SelectionStart = 0;
             this.txDiaChi.ShortcutsEnabled = true;
-            this.txDiaChi.Size = new System.Drawing.Size(350, 48);
+            this.txDiaChi.Size = new System.Drawing.Size(375, 48);
             this.txDiaChi.TabIndex = 1;
             this.txDiaChi.TabStop = false;
             this.txDiaChi.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -108,7 +110,7 @@
             this.txGhiChu.Depth = 0;
             this.txGhiChu.HideSelection = true;
             this.txGhiChu.Hint = "Ghi Chú";
-            this.txGhiChu.Location = new System.Drawing.Point(20, 149);
+            this.txGhiChu.Location = new System.Drawing.Point(6, 127);
             this.txGhiChu.MaxLength = 32767;
             this.txGhiChu.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.OUT;
             this.txGhiChu.Name = "txGhiChu";
@@ -119,7 +121,7 @@
             this.txGhiChu.SelectionLength = 0;
             this.txGhiChu.SelectionStart = 0;
             this.txGhiChu.ShortcutsEnabled = true;
-            this.txGhiChu.Size = new System.Drawing.Size(350, 170);
+            this.txGhiChu.Size = new System.Drawing.Size(375, 186);
             this.txGhiChu.TabIndex = 2;
             this.txGhiChu.TabStop = false;
             this.txGhiChu.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -128,17 +130,18 @@
             // 
             // btXacNhan
             // 
+            this.btXacNhan.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btXacNhan.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.btXacNhan.Depth = 0;
             this.btXacNhan.HighEmphasis = true;
             this.btXacNhan.Icon = null;
             this.btXacNhan.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
-            this.btXacNhan.Location = new System.Drawing.Point(270, 343);
+            this.btXacNhan.Location = new System.Drawing.Point(286, 322);
             this.btXacNhan.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btXacNhan.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
             this.btXacNhan.Name = "btXacNhan";
             this.btXacNhan.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.btXacNhan.Size = new System.Drawing.Size(100, 36);
+            this.btXacNhan.Size = new System.Drawing.Size(95, 36);
             this.btXacNhan.TabIndex = 3;
             this.btXacNhan.Text = "Xác Nhận";
             this.btXacNhan.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
@@ -148,17 +151,18 @@
             // 
             // btHuy
             // 
+            this.btHuy.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btHuy.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
             this.btHuy.Depth = 0;
             this.btHuy.HighEmphasis = true;
             this.btHuy.Icon = null;
             this.btHuy.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
-            this.btHuy.Location = new System.Drawing.Point(162, 343);
+            this.btHuy.Location = new System.Drawing.Point(214, 322);
             this.btHuy.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btHuy.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
             this.btHuy.Name = "btHuy";
             this.btHuy.NoAccentTextColor = System.Drawing.Color.Empty;
-            this.btHuy.Size = new System.Drawing.Size(100, 36);
+            this.btHuy.Size = new System.Drawing.Size(64, 36);
             this.btHuy.TabIndex = 4;
             this.btHuy.Text = "Huỷ";
             this.btHuy.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
@@ -166,23 +170,36 @@
             this.btHuy.UseVisualStyleBackColor = true;
             this.btHuy.Click += new System.EventHandler(this.btHuy_Click);
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.txGhiChu);
+            this.groupBox1.Controls.Add(this.txTenNhaTro);
+            this.groupBox1.Controls.Add(this.btHuy);
+            this.groupBox1.Controls.Add(this.txDiaChi);
+            this.groupBox1.Controls.Add(this.btXacNhan);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Location = new System.Drawing.Point(6, 27);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(388, 367);
+            this.groupBox1.TabIndex = 5;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Thông Tin Trọ";
+            // 
             // SuaNhaTro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(400, 400);
-            this.Controls.Add(this.btHuy);
-            this.Controls.Add(this.btXacNhan);
-            this.Controls.Add(this.txGhiChu);
-            this.Controls.Add(this.txDiaChi);
-            this.Controls.Add(this.txTenNhaTro);
+            this.Controls.Add(this.groupBox1);
             this.FormStyle = ReaLTaiizor.Enum.Material.FormStyles.ActionBar_None;
             this.Name = "SuaNhaTro";
             this.Padding = new System.Windows.Forms.Padding(3, 24, 3, 3);
+            this.Sizable = false;
             this.Text = "SuaNhaTro";
             this.Load += new System.EventHandler(this.SuaNhaTro_Load);
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -192,5 +209,6 @@
         public ReaLTaiizor.Controls.MaterialTextBoxEdit txTenNhaTro;
         public ReaLTaiizor.Controls.MaterialTextBoxEdit txDiaChi;
         public ReaLTaiizor.Controls.MaterialMultiLineTextBoxEdit txGhiChu;
+        private System.Windows.Forms.GroupBox groupBox1;
     }
 }
