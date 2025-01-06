@@ -1,5 +1,4 @@
-﻿using QuanLyTro.Forms.Dialog;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,12 +15,6 @@ namespace QuanLyTro.Forms.FormMainUserControl
         public UserControlKhachHang()
         {
             InitializeComponent();
-        }
-
-        private void btnThem_Click(object sender, EventArgs e)
-        {
-            ThemKhachHang themKhachHang = new ThemKhachHang();
-            themKhachHang.ShowDialog();
         }
     }
 }
