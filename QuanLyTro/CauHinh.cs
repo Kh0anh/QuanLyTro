@@ -46,8 +46,8 @@ CREATE TABLE IF NOT EXISTS ""HopDong"" (
 	""NgayBatDau""	TEXT NOT NULL,
 	""NgayKetThuc""	TEXT NOT NULL,
 	""GiaThue""	INTEGER NOT NULL,
-	""TienCoc""	INTEGER NOT NULL,
-	""SoNguoiO""	INTEGER NOT NULL,
+	""TienCoc"" INTEGER NOT NULL,
+	""SoNguoiO"" INTEGER NOT NULL,
 	""MaKhachHang""	INTEGER NOT NULL,
 	""Xoa""	INTEGER NOT NULL,
 	FOREIGN KEY(""MaKhachHang"") REFERENCES ""KhachHang""(""Ma""),
@@ -148,6 +148,19 @@ COMMIT;
                 CSDL = new SQLiteConnection(string.Format("Data Source={0};Version=3;", duongDanCSDL));
                 CSDL.Open();
             }
+
+			string selectquery = "SELECT * FROM NhaTro";
+			using (SQLiteCommand cmd = new SQLiteCommand(selectquery, CSDL))
+			{
+				using (SQLiteDataReader reader = cmd.ExecuteReader())
+				{
+					while (reader.Read())
+					{
+						Console.WriteLine($"ID: {reader["Ma"]}");
+					}
+				}
+			}
+
         }
     }
 }
