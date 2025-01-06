@@ -144,7 +144,7 @@ COMMIT;
             }
             else
             {
-                //Mở kết nối database
+                //Mở kết nối cơ sở dữ liệu
                 CSDL = new SQLiteConnection(string.Format("Data Source={0};Version=3;", duongDanCSDL));
                 CSDL.Open();
             }
