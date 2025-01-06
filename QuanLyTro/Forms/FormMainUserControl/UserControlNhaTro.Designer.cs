@@ -60,12 +60,13 @@ namespace QuanLyTro.Forms.FormMainUserControl
             this.lvNhaTro.FullRowSelect = true;
             this.lvNhaTro.HideSelection = false;
             this.lvNhaTro.Location = new System.Drawing.Point(0, 0);
-            this.lvNhaTro.MinimumSize = new System.Drawing.Size(200, 100);
+            this.lvNhaTro.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lvNhaTro.MinimumSize = new System.Drawing.Size(267, 123);
             this.lvNhaTro.MouseLocation = new System.Drawing.Point(-1, -1);
             this.lvNhaTro.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.OUT;
             this.lvNhaTro.Name = "lvNhaTro";
             this.lvNhaTro.OwnerDraw = true;
-            this.lvNhaTro.Size = new System.Drawing.Size(800, 400);
+            this.lvNhaTro.Size = new System.Drawing.Size(1067, 492);
             this.lvNhaTro.TabIndex = 0;
             this.lvNhaTro.UseCompatibleStateImageBehavior = false;
             this.lvNhaTro.View = System.Windows.Forms.View.Details;
@@ -99,42 +100,44 @@ namespace QuanLyTro.Forms.FormMainUserControl
             // 
             this.cmLvNhaTro.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.cmLvNhaTro.Depth = 0;
+            this.cmLvNhaTro.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.cmLvNhaTro.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.them,
             this.sua,
             this.xoa});
             this.cmLvNhaTro.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
             this.cmLvNhaTro.Name = "contextMenuStrip1";
-            this.cmLvNhaTro.Size = new System.Drawing.Size(181, 92);
+            this.cmLvNhaTro.Size = new System.Drawing.Size(211, 104);
             // 
             // them
             // 
             this.them.Name = "them";
-            this.them.Size = new System.Drawing.Size(105, 22);
+            this.them.Size = new System.Drawing.Size(210, 24);
             this.them.Text = "Thêm";
             this.them.Click += new System.EventHandler(this.them_Click);
             // 
             // sua
             // 
             this.sua.Name = "sua";
-            this.sua.Size = new System.Drawing.Size(180, 22);
+            this.sua.Size = new System.Drawing.Size(210, 24);
             this.sua.Text = "Sửa";
             this.sua.Click += new System.EventHandler(this.sua_Click);
             // 
             // xoa
             // 
             this.xoa.Name = "xoa";
-            this.xoa.Size = new System.Drawing.Size(180, 22);
+            this.xoa.Size = new System.Drawing.Size(210, 24);
             this.xoa.Text = "Xoá";
             this.xoa.Click += new System.EventHandler(this.xoa_Click);
             // 
             // UserControlNhaTro
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.lvNhaTro);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "UserControlNhaTro";
-            this.Size = new System.Drawing.Size(800, 400);
+            this.Size = new System.Drawing.Size(1067, 492);
             this.Load += new System.EventHandler(this.UserControlNhaTro_Load);
             this.cmLvNhaTro.ResumeLayout(false);
             this.ResumeLayout(false);

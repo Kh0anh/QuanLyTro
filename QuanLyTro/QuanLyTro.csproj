@@ -46,6 +46,9 @@
     <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
     </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.Updated.0.2.2\lib\MaterialSkin.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="ReaLTaiizor, Version=3.8.1.1, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\ReaLTaiizor.3.8.1.1\lib\net48\ReaLTaiizor.dll</HintPath>
@@ -75,23 +78,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CauHinh.cs" />
-    <Compile Include="Forms\Dialog\SuaKhachHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\Dialog\SuaKhachHang.Designer.cs">
-      <DependentUpon>SuaKhachHang.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\Dialog\SuaNhaTro.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Dialog\SuaNhaTro.Designer.cs">
       <DependentUpon>SuaNhaTro.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Dialog\ThemKhachHang.cs">
+    <Compile Include="Forms\Dialog\ThemHopDong.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Dialog\ThemKhachHang.Designer.cs">
-      <DependentUpon>ThemKhachHang.cs</DependentUpon>
+    <Compile Include="Forms\Dialog\ThemHopDong.Designer.cs">
+      <DependentUpon>ThemHopDong.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Dialog\ThemNhaTro.cs">
       <SubType>Form</SubType>
@@ -104,12 +101,6 @@
     </Compile>
     <Compile Include="Forms\Dialog\ThemPhong.Designer.cs">
       <DependentUpon>ThemPhong.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Forms\Dialog\XemChiTietKH.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\Dialog\XemChiTietKH.Designer.cs">
-      <DependentUpon>XemChiTietKH.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Dialog\XemChiTietPhong.cs">
       <SubType>Form</SubType>
@@ -170,8 +161,8 @@
     <EmbeddedResource Include="Forms\Dialog\SuaNhaTro.resx">
       <DependentUpon>SuaNhaTro.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Dialog\ThemKhachHang.resx">
-      <DependentUpon>ThemKhachHang.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\Dialog\ThemHopDong.resx">
+      <DependentUpon>ThemHopDong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dialog\ThemNhaTro.resx">
       <DependentUpon>ThemNhaTro.cs</DependentUpon>
