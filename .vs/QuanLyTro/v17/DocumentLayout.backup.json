@@ -1,137 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\QuanLyTro\\",
+  "WorkspaceRootPath": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\cauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\cauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|d:\\projects\\uni projects\\kh0anh\\quanlytro\\quanlytro\\forms\\dialog\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolcauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolcauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|d:\\quanlytro\\quanlytro\\forms\\dialog\\xemchitietphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\xemchitietphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\suanhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\suanhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\themnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|d:\\projects\\uni projects\\kh0anh\\quanlytro\\quanlytro\\forms\\dialog\\themnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\quanlytro\\cauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\cauhinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\xemchitietphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\xemchitietphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontroltrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontroltrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|d:\\quanlytro\\quanlytro\\forms\\formmainusercontrol\\usercontrolphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\themnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\suanhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\suanhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\themphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|d:\\projects\\uni projects\\kh0anh\\quanlytro\\quanlytro\\forms\\formmainusercontrol\\usercontrolhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QuanLyTro||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\dialog\\themnhatro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\dialog\\themnhatro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\resources\\nha.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\resources\\nha.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\resources\\trangchu.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\resources\\trangchu.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\resources\\cua.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\resources\\cua.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\resources\\khanghang.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\resources\\khanghang.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\resources\\cauhinh.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\resources\\cauhinh.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontroltrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontroltrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\QuanLyTro\\quanlytro\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{830DB6EE-6AF5-4BF8-91E2-8D635C774466}|QuanLyTro\\QuanLyTro.csproj|solutionrelative:quanlytro\\forms\\formmainusercontrol\\usercontrolnhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -141,424 +38,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "XemChiTietPhong.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:01:51.159Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ThemPhong.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemPhong.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemPhong.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemPhong.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:07:45.232Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SuaNhaTro.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:42:28.361Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserControlHopDong.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
+              "Title": "UserControlHopDong.cs",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
               "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs [Design]",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
+              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAtwEMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T02:24:56.162Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserControlCauHinh.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlCauHinh.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlCauHinh.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlCauHinh.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlCauHinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T02:23:35.261Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMain.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMain.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMain.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:39:51.898Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CauHinh.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\CauHinh.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\CauHinh.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\CauHinh.cs",
-              "RelativeToolTip": "QuanLyTro\\CauHinh.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwIgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T15:21:56.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ThemNhaTro.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T09:24:47.459Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Program.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Program.cs",
-              "RelativeToolTip": "QuanLyTro\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T01:56:28.838Z",
+              "WhenOpened": "2025-01-06T09:35:31.056Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemHopDong.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemHopDong.cs",
+              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemHopDong.cs",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemHopDong.cs [Design]",
+              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:43:33.425Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "XemChiTietPhong.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\XemChiTietPhong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ThemNhaTro.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
+              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs [Design]",
+              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:58:01.106Z",
+              "WhenOpened": "2025-01-06T13:40:26.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CauHinh.cs",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\CauHinh.cs",
+              "RelativeDocumentMoniker": "QuanLyTro\\CauHinh.cs",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\CauHinh.cs",
+              "RelativeToolTip": "QuanLyTro\\CauHinh.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:38:43.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserControlTrangChu.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T01:06:55.845Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserControlPhongTro.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlPhongTro.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlPhongTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlPhongTro.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlPhongTro.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T17:49:51.327Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserControlThanhToan.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlThanhToan.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlThanhToan.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlThanhToan.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlThanhToan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T07:57:31.862Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserControlNhaTro.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
+              "DocumentIndex": 4,
+              "Title": "UserControlNhaTro.cs",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
               "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs [Design]",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
+              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAewGoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:52:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlHopDong.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
+              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs [Design]",
+              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:35:29.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlNhaTro.cs [Design]",
+              "DocumentMoniker": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
+              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
+              "ToolTip": "D:\\Projects\\Uni Projects\\Kh0anh\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs [Design]",
               "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T15:54:14.018Z",
+              "WhenOpened": "2025-01-06T12:16:06.303Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserControlKhachHang.cs [Design]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlKhachHang.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlKhachHang.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlKhachHang.cs [Design]",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlKhachHang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T02:24:24.7Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ThemNhaTro.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAMwCgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T08:04:30.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ThemPhong.Designer.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemPhong.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemPhong.Designer.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemPhong.Designer.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemPhong.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:10:44.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SuaNhaTro.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\SuaNhaTro.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA5wA4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:42:57.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ThemPhong.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemPhong.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemPhong.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemPhong.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemPhong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T08:07:50.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserControlNhaTro.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:00:48.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FormMain.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMain.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMain.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMain.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMain.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T07:06:33.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "QuanLyTro",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\QuanLyTro.csproj",
-              "RelativeDocumentMoniker": "QuanLyTro\\QuanLyTro.csproj",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\QuanLyTro.csproj",
-              "RelativeToolTip": "QuanLyTro\\QuanLyTro.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-29T10:03:57.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ThemNhaTro.Designer.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.Designer.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\Dialog\\ThemNhaTro.Designer.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\Dialog\\ThemNhaTro.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T08:48:38.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserControlNhaTro.Designer.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.Designer.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.Designer.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlNhaTro.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T18:38:06.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "nha.png - PNG [512x512, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Resources\\nha.png",
-              "RelativeDocumentMoniker": "QuanLyTro\\Resources\\nha.png",
-              "ToolTip": "D:\\QuanLyTro-main\\QuanLyTro\\Resources\\nha.png - PNG [512x512, 32 bit, PNG]",
-              "RelativeToolTip": "..\\QuanLyTro-main\\QuanLyTro\\Resources\\nha.png - PNG [512x512, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-12-30T02:16:59.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "trangchu.png - PNG [512x512, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Resources\\trangchu.png",
-              "RelativeDocumentMoniker": "QuanLyTro\\Resources\\trangchu.png",
-              "ToolTip": "D:\\QuanLyTro-main\\QuanLyTro\\Resources\\trangchu.png - PNG [512x512, 32 bit, PNG]",
-              "RelativeToolTip": "..\\QuanLyTro-main\\QuanLyTro\\Resources\\trangchu.png - PNG [512x512, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-12-30T02:16:56.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "khanghang.png - PNG [512x512, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Resources\\khanghang.png",
-              "RelativeDocumentMoniker": "QuanLyTro\\Resources\\khanghang.png",
-              "ToolTip": "D:\\QuanLyTro-main\\QuanLyTro\\Resources\\khanghang.png - PNG [512x512, 32 bit, PNG]",
-              "RelativeToolTip": "..\\QuanLyTro-main\\QuanLyTro\\Resources\\khanghang.png - PNG [512x512, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-12-30T02:16:45.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "cua.png - PNG [512x512, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Resources\\cua.png",
-              "RelativeDocumentMoniker": "QuanLyTro\\Resources\\cua.png",
-              "ToolTip": "D:\\QuanLyTro-main\\QuanLyTro\\Resources\\cua.png - PNG [512x512, 32 bit, PNG]",
-              "RelativeToolTip": "..\\QuanLyTro-main\\QuanLyTro\\Resources\\cua.png - PNG [512x512, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-12-30T02:16:44.036Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\App.config",
-              "RelativeDocumentMoniker": "QuanLyTro\\App.config",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\App.config",
-              "RelativeToolTip": "QuanLyTro\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-12-29T10:17:06.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "cauhinh.png - PNG [512x512, 32 bit, PNG]",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Resources\\cauhinh.png",
-              "RelativeDocumentMoniker": "QuanLyTro\\Resources\\cauhinh.png",
-              "ToolTip": "D:\\QuanLyTro-main\\QuanLyTro\\Resources\\cauhinh.png - PNG [512x512, 32 bit, PNG]",
-              "RelativeToolTip": "..\\QuanLyTro-main\\QuanLyTro\\Resources\\cauhinh.png - PNG [512x512, 32 bit, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-12-30T02:16:42.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "FormMain.Designer.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMain.Designer.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMain.Designer.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMain.Designer.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMain.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T07:06:05.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UserControlTrangChu.cs",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs",
-              "RelativeDocumentMoniker": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs",
-              "RelativeToolTip": "QuanLyTro\\Forms\\FormMainUserControl\\UserControlTrangChu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T01:07:00.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\QuanLyTro\\QuanLyTro\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "QuanLyTro\\Properties\\Resources.resx",
-              "ToolTip": "D:\\QuanLyTro\\QuanLyTro\\Properties\\Resources.resx",
-              "RelativeToolTip": "QuanLyTro\\Properties\\Resources.resx",
-              "ViewState": "AgIAACcAAAAAAAAAAADgvzIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-12-29T10:19:46.546Z",
-              "EditorCaption": ""
             }
           ]
         }
