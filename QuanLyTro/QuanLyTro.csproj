@@ -78,6 +78,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CauHinh.cs" />
+    <Compile Include="Forms\Dialog\SuaKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialog\SuaKhachHang.Designer.cs">
+      <DependentUpon>SuaKhachHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Dialog\SuaNhaTro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,12 @@
     <Compile Include="Forms\Dialog\ThemHopDong.Designer.cs">
       <DependentUpon>ThemHopDong.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\Dialog\ThemKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialog\ThemKhachHang.Designer.cs">
+      <DependentUpon>ThemKhachHang.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\Dialog\ThemNhaTro.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +113,12 @@
     </Compile>
     <Compile Include="Forms\Dialog\ThemPhong.Designer.cs">
       <DependentUpon>ThemPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialog\XemChiTietKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialog\XemChiTietKH.Designer.cs">
+      <DependentUpon>XemChiTietKH.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Dialog\XemChiTietPhong.cs">
       <SubType>Form</SubType>
@@ -163,6 +181,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dialog\ThemHopDong.resx">
       <DependentUpon>ThemHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialog\ThemKhachHang.resx">
+      <DependentUpon>ThemKhachHang.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Dialog\ThemNhaTro.resx">
       <DependentUpon>ThemNhaTro.cs</DependentUpon>
